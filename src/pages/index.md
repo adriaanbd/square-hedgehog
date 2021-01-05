@@ -55,7 +55,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Conoce más
             url: lorem-ipsum
             style: secondary
             new_window: false
