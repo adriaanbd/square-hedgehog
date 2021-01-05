@@ -1,11 +1,11 @@
 {
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "Starter",
+        "title": "",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "¿Qué hacemos?",
                 "url": "/features",
                 "style": "link"
             },
@@ -15,21 +15,22 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Sobre nosotros",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Talleres",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Contáctanos",
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/logo.png"
     },
     "footer": {
         "has_nav": true,

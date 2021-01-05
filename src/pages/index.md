@@ -2,70 +2,66 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Python Panamá
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Una comunidad comprometidas al alza del índice de alfabetismo en Python.
+      Es nuestro deseo que todos en Panamá hablemos Python.
     actions:
-      - label: Learn More
+      - label: Conoce más
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Contáctanos
         url: /contact
         style: secondary
-    align: left
-    image: images/hero.svg
+    align: center
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
-      background_image_size: auto
+      background_image: images/pyton_panama_slide_1.png
+      background_image_opacity: 90
+      background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: ¿Qué hacemos?
     features:
-      - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/feature.svg
+      - title: Talleres
+        content: 'Desarrollamos talleres y cursos en Python. '
+        align: center
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Meetups
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
+          Realizamos meetups mensuales donde comunmente tenemos a invitados
+          locales e internacionales presentando un tema tecnológico específico
+          y/o compartiendonos su experiencia.
+        align: center
+        image_alt: Feature 1 placeholder image
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
+      - title: Club de Lectura
+        content: >-
+          Miembros de nuestra comunidad aprenden juntos sobre un tema en
+          particular a través de nuestros clubes de lectura.
+        align: center
+        image_alt: lorem-ipsum
+        image_position: left
+        actions:
+          - label: Conoce más
+            url: lorem-ipsum
+            style: secondary
+            new_window: false
+            no_follow: false
+            type: action
+        type: feature
   - type: blog_feed_section
     title: What's New
     show_recent: true
