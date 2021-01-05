@@ -7,7 +7,7 @@ sections:
       Una comunidad comprometidas al alza del índice de alfabetismo en Python.
       Es nuestro deseo que todos en Panamá hablemos Python.
     actions:
-      - label: Aprende más
+      - label: Conoce más
         url: /features
         style: primary
       - label: Contact Us
