@@ -21,7 +21,7 @@ sections:
     background:
       background_color: gray
       background_image: images/pyton_panama_slide_1.png
-      background_image_opacity: 85
+      background_image_opacity: 90
       background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
