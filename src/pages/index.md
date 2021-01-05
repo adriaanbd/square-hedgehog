@@ -31,7 +31,7 @@ sections:
           Realizamos meetups mensuales donde comunmente tenemos a invitados
           locales e internacionales presentando un tema tecnológico específico
           y/o compartiendonos su experiencia.
-        align: right
+        align: left
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
