@@ -32,7 +32,6 @@ sections:
           locales e internacionales presentando un tema tecnológico específico
           y/o compartiendonos su experiencia.
         align: right
-        image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
