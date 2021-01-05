@@ -27,7 +27,10 @@ sections:
     title: Features
     features:
       - title: Meetups
-        content: Realizamos meetups mensuales.
+        content: >-
+          Realizamos meetups mensuales donde comunmente tenemos a invitados
+          locales e internacionales presentando un tema tecnológico específico
+          y/o compartiendonos su experiencia.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
