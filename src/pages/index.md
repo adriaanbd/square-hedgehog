@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Python Panamá
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Una comunidad comprometidas al alza del índice de alfabetismo en Python.
+      Es nuestro deseo que todos en Panamá hablemos Python.
     actions:
       - label: Learn More
         url: /features
