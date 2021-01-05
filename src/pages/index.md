@@ -49,16 +49,8 @@ sections:
             style: secondary
       - title: Club de Lectura
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Miembros de nuestra comunidad aprenden juntos sobre un tema en
+          particular a través de nuestros clubes de lectura.
         align: left
         image_alt: lorem-ipsum
         image_position: left
