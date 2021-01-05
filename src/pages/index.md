@@ -18,7 +18,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: blue
       background_image: images/pyton_panama_slide_1.png
       background_image_opacity: 90
       background_image_size: cover
