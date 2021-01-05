@@ -51,7 +51,7 @@ sections:
         content: >-
           Miembros de nuestra comunidad aprenden juntos sobre un tema en
           particular a través de nuestros clubes de lectura.
-        align: left
+        align: center
         image_alt: lorem-ipsum
         image_position: left
         actions: []
