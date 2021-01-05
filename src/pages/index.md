@@ -40,7 +40,7 @@ sections:
             style: secondary
       - title: Talleres
         content: 'Desarrollamos talleres y cursos en Python. '
-        align: left
+        align: center
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
