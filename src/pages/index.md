@@ -24,7 +24,7 @@ sections:
       background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: ¿Qué hacemos?
     features:
       - title: Meetups
         content: >-
