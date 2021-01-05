@@ -26,6 +26,15 @@ sections:
   - type: features_section
     title: ¿Qué hacemos?
     features:
+      - title: Talleres
+        content: 'Desarrollamos talleres y cursos en Python. '
+        align: center
+        image_alt: Feature 2 placeholder image
+        image_position: left
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
       - title: Meetups
         content: >-
           Realizamos meetups mensuales donde comunmente tenemos a invitados
@@ -34,15 +43,6 @@ sections:
         align: center
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-      - title: Talleres
-        content: 'Desarrollamos talleres y cursos en Python. '
-        align: center
-        image_alt: Feature 2 placeholder image
-        image_position: left
         actions:
           - label: Learn More
             url: /features
